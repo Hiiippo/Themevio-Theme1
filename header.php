@@ -14,6 +14,6 @@
 <body>
 
 <div id="ttr_header" class="jumbotron">
-<h1>Themevio Demo 1</h1>
+<h1>Themevio Demo 1.1</h1>
 </div>
 <div class="container">
